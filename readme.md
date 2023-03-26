@@ -3,7 +3,7 @@
 ## Project 3 - Phase 1 
 <br />
 
-## Implementation and Visualizattion of A-star Algorithm
+## Implementation and Visualization of A-star Algorithm
 <br />
 
 ## Team Members
