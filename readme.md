@@ -40,21 +40,18 @@ pip install sortedcollections
 pip install heapdict
 ```
 
-## Git Repo Link 
-
-https://github.com/sandipsharan/A_star_algorithm
 
 
 ## To Run the program
 
 - Unzip the folder given
-- Click and open the file name a_star_SandipSharan_Sandeep.py
+- Click and open the file name A_star.py
 - If opened in VScode, click the run button on the top right corner or click `Ctrl+Atl+N`
 - Open the terminal in the folder location and run the following command
 </br>
 
 ```
-python3 a_star_SandipSharan_Sandeep.py
+python3 A_star.py
 ```
 
 ## Output
