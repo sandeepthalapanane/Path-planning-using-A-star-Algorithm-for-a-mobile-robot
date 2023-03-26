@@ -1,14 +1,6 @@
-# ENPM661 - Planning for Autonomous Robots
-
-## Project 3 - Phase 1 
-<br />
-
 ## Implementation and Visualization of A-star Algorithm
 <br />
 
-## Team Members
-* Sandeep Thalapanane - - sandeept - 119402535
-* Sandip Sharan Senthil Kumar - Sandip26 - 119340196
 
 ## Environment used - VS code
 
